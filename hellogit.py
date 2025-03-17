@@ -1,2 +1,1 @@
-print
-Mi primer Hola mundo
+print("New Hello GitHub!")
