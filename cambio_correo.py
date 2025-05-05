@@ -1,2 +1,2 @@
 print("Cambio correo prueba con interfaz")
-print("PRUEBA MANUAL")
+print("PRUEBA MANUAL 2")
